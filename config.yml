@@ -1,0 +1,61 @@
+0:
+  - topic: gordon/smarthouse/relaybox/1
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/2
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/3
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/4
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/5
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/6
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/7
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/8
+    payload: 1
+  - topic: gordon/smarthouse/wemo/Soundboard
+    payload: 1
+
+1:
+  - topic: gordon/smarthouse/relaybox/6
+    payload: 0
+2:
+  - topic: gordon/smarthouse/relaybox/5
+    payload: 0
+3:
+  - topic: gordon/smarthouse/relaybox/1
+    payload: 0
+4:
+  - topic: gordon/smarthouse/relaybox/1
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/2
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/3
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/4
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/5
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/6
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/7
+    payload: 1
+  - topic: gordon/smarthouse/relaybox/8
+    payload: 1
+  - topic: gordon/smarthouse/wemo/Soundboard
+    payload: 1
+5:
+  - topic: gordon/smarthouse/relaybox/1
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/3
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/4
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/5
+    payload: 0
+  - topic: gordon/smarthouse/relaybox/6
+    payload: 0
+  - topic: gordon/smarthouse/wemo/Soundboard
+    payload: 0
